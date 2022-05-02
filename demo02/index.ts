@@ -18,10 +18,10 @@
 
 
 let words = ['red','green','blue'];
-let foundWorld: boolean
+let foundWorld: boolean | number = false;
 
 for(let i=0; i < words.length; i++) {
     if(words[i] === 'green') {
-        foundWorld = true;
+        foundWorld = i
     }
 }
