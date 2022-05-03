@@ -1,4 +1,4 @@
 # 2022年5月以后的前端笔记
-> TypeScript ==> 一些比较实用的练习
+> react-notes ==> 一些比较实用的 TypeScript 笔记
 >
-> javascript ==> 一些关于 dom 以及设计方面的知识
+> error-boundary ==> 捕获异常组建信息的轮子
